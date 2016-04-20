@@ -1,0 +1,1 @@
+A maven project for jenkins git plugin test.
